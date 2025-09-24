@@ -1,9 +1,9 @@
----
-title: "Welcome Back"
-description: "A fresh start for yet another blog, powered by a custom static generator."
-date: 2025-06-02
-category: "meta"
----
++++
+title = "Welcome Back"
+description = "A fresh start for yet another blog, powered by a custom static generator."
+date = 2025-06-02
+category = "meta"
++++
 
 ## Welcome Back
 
@@ -20,7 +20,5 @@ Publishing is just:
 `git pull → write → commit → push`
 
 Let me know if you'd like to include a hero image, tags, or related links at the end!
-
-
 
 As editor i am using : [GitHub - marktext/marktext: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.](https://github.com/marktext/marktext)

@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10316bd1-959f-4af0-bb94-797a5920e597" name="Changes" comment="clean content">
+    <list default="true" id="10316bd1-959f-4af0-bb94-797a5920e597" name="Changes" comment="small updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/engine/IndexRenderer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/engine/IndexRenderer.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/engine/TemplateEngine.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/engine/TemplateEngine.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/model/BlogConfig.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/model/BlogConfig.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/model/BlogPost.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/model/BlogPost.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,13 +105,14 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/test/Documents/GitHub/bllok/demo_content/skenderbeu_blog/skenderbeu_blog/Pages",
+    "last_opened_file_path": "C:/Users/test/Documents/GitHub/bllok/demo_content/eltonkola_blog/blog",
     "onboarding.tips.debug.path": "C:/Users/test/Documents/GitHub/bllok/src/main/kotlin/Main.kt",
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\test\Documents\GitHub\bllok\demo_content\eltonkola_blog\blog" />
       <recent name="C:\Users\test\Documents\GitHub\bllok\demo_content\skenderbeu_blog\skenderbeu_blog\Pages" />
       <recent name="C:\Users\test\Documents\GitHub\bllok\src\test\kotlin" />
     </key>
@@ -129,7 +126,7 @@
       <recent name="com.eltonkola.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.RenderEltonKt">
+  <component name="RunManager" selected="Gradle.bllok [assemble]">
     <configuration name="bllok [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -214,8 +211,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.RenderEltonKt" />
         <item itemvalue="Gradle.bllok [assemble]" />
+        <item itemvalue="Kotlin.RenderEltonKt" />
         <item itemvalue="Kotlin.RenderSkenderbeuKt" />
         <item itemvalue="Gradle.bllok [build]" />
         <item itemvalue="Kotlin.RenderLetersiaKt" />
@@ -326,7 +323,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749139055088</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="small updates">
+      <option name="closed" value="true" />
+      <created>1749141175684</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1749141175684</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -337,6 +342,7 @@
     <MESSAGE value="logs" />
     <MESSAGE value="use date" />
     <MESSAGE value="clean content" />
-    <option name="LAST_COMMIT_MESSAGE" value="clean content" />
+    <MESSAGE value="small updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="small updates" />
   </component>
 </project>
